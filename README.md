@@ -29,7 +29,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=Dispatchly&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/Dispatchly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=DynamicProgramming&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/DynamicProgramming)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=TomatoLeafDiseaseIdentifier&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/TomatoLeafDiseaseIdentifier)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=Lovinity&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/Lovinity)
 
 
 
