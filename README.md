@@ -24,11 +24,11 @@
  
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SportSync&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/SportSync)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=SnakeGameAgent&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/SnakeGameAgent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=MuslimEssentials&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/MuslimEssentials)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=DynamicProgramming&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/DynamicProgramming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidwanSiddique&repo=TomatoLeafDiseaseIdentifier&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/TomatoLeafDiseaseIdentifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=SportSync&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/SportSync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=SnakeGameAgent&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/SnakeGameAgent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=MuslimEssentials&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/MuslimEssentials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=DynamicProgramming&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/DynamicProgramming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=TomatoLeafDiseaseIdentifier&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/TomatoLeafDiseaseIdentifier)
 
 
 
