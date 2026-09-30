@@ -26,7 +26,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=SportSync&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/SportSync)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=SnakeGameAgent&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/SnakeGameAgent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=MuslimEssentials&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/MuslimEssentials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=Dispatchly&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/Dispatchly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=DynamicProgramming&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/DynamicProgramming)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astrolyth&repo=TomatoLeafDiseaseIdentifier&description_lines_count=4&theme=github_dark)](https://github.com/astrolyth/TomatoLeafDiseaseIdentifier)
 
