@@ -109,8 +109,8 @@
 <h1 align="center">⚡Github Stats ⚡</h1>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RidwanSiddique&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSiddique&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=astrolyth&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrolyth&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
